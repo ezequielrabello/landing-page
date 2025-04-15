@@ -4,8 +4,13 @@
     url("../../assets/images/header_main_img.jpg") center/cover no-repeat;
 }
 
+.header-content {
+    padding-top: 78px;
+}
+
 .header-content .text-lead {
     margin: 3.2rem 0 4.9rem 0;
+    
 }
 
 .header-title {
@@ -15,6 +20,7 @@
     background: linear-gradient(to right, var(--clr-robin-blue), var(--clr-crazy-blue));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+
 }
 
 .header-btn {
