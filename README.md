@@ -1,12 +1,39 @@
-# React + Vite
+# 🌐 Landing Page Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern landing page built with HTML, CSS, and React.  
+This was part of my frontend developer learning journey — focused on layout, design, and responsiveness.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 [View the Live Site](https://landing-page-ezequiel.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript/React
+- Responsive Design
+- [Vercel](https://vercel.com/) for deployment
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
+![Screenshot](./src/assets/images/responsiveness_design.png) 
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Features
+- Clean, modern UI
+- Fully responsive layout (mobile/tablet/desktop)
+- Smooth scroll & interactive elements
+- Semantic HTML structure
+
+## 🎯 What I Learned and Improved
+- Structuring responsive layouts
+- CSS styling + media queries
+- Forms with the help of Formik Library
+- DOM manipulation (if JavaScript is used)
+- Version control with Git & GitHub
+- Deploying projects with Netlify
+
+## 📁 Getting Started
+If you'd like to run the project locally:
+
+```bash
+git clone https://github.com/ezequielrabello/landing-page.git
+cd landing-page
+open index.html
